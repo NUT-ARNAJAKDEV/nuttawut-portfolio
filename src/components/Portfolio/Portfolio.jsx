@@ -9,42 +9,60 @@ function Portfolio() {
       <div className={styles.port_list}>
         <div className={styles.port_items}>
           <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-            <img src="/images/project1.jpg" alt="coding" />
+            <a href="https://nakhonlottery-app.vercel.app/"
+              target="_blank">
+              <img src="/images/project1.jpg" alt="coding" />
+            </a>
           </Tilt>
           <p>1️⃣ Nakonlottery</p>
           <p>Website for online lottery trading.</p>
         </div>
         <div className={styles.port_items}>
           <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-            <img src="/images/project2.jpg" alt="coding" />
+            <a a href="https://github.com/NUT-ARNAJAKDEV/AOI300R_VISION"
+              target="_blank">
+              <img src="/images/project2.jpg" alt="coding" />
+            </a>
           </Tilt>
           <p>2️⃣ AOI300R Vision</p>
           <p>A program for recording data into a DB.</p>
         </div>
         <div className={styles.port_items}>
           <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-            <img src="/images/project3.jpg" alt="coding" />
+            <a a href="https://github.com/NUT-ARNAJAKDEV/DE1_Requested"
+              target="_blank">
+              <img src="/images/project3.jpg" alt="coding" />
+            </a>
           </Tilt>
           <p>3️⃣ DE1 Requested</p>
           <p>Web app for coordination DE1 & etc.</p>
         </div>
         <div className={styles.port_items}>
           <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-            <img src="/images/project4.jpg" alt="coding" />
+            <a a href="https://github.com/NUT-ARNAJAKDEV/DE1-Stock-GO-Backend"
+              target="_blank">
+              <img src="/images/project4.jpg" alt="coding" />
+            </a>
           </Tilt>
           <p>4️⃣ DE1 Stock</p>
           <p>Web app for mini warehouse for DE1.</p>
         </div>
         <div className={styles.port_items}>
           <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-            <img src="/images/project5.jpg" alt="coding" />
+            <a a href="https://github.com/NUT-ARNAJAKDEV/IOT-Gateway"
+              target="_blank">
+              <img src="/images/project5.jpg" alt="coding" />
+            </a>
           </Tilt>
           <p>5️⃣ IoT Gateway - odoo backend</p>
           <p>Blood test machine backend system.</p>
         </div>
         <div className={styles.port_items}>
           <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-            <img src="/images/project6.jpg" alt="coding" />
+            <a a href="https://stocknize-ai-demo.vercel.app/"
+              target="_blank">
+              <img src="/images/project6.jpg" alt="coding" />
+            </a>
           </Tilt>
           <p>6️⃣ Stocknize AI</p>
           <p>Warehouse management with AI.</p>
