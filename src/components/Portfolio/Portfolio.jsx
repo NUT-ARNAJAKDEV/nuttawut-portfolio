@@ -59,13 +59,13 @@ function Portfolio() {
         </div>
         <div className={styles.port_items}>
           <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-            <a a href="https://stocknize-ai-demo.vercel.app/"
+            <a a href="https://github.com/NUT-ARNAJAKDEV/M150-Point"
               target="_blank">
               <img src="/images/project6.jpg" alt="coding" />
             </a>
           </Tilt>
-          <p>6️⃣ Stocknize AI</p>
-          <p>Warehouse management with AI.</p>
+          <p>6️⃣ M150 Point</p>
+          <p>Use AI for image processing.</p>
         </div>
       </div>
     </div>
